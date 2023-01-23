@@ -17,6 +17,17 @@
 #### Diffusion based VC
 | Josh | Veda | Josh_to_veda |
 
-| <audio src="audios/diff_Minaii_TF064.wav" controls preload></audio> | <audio src="audios/Octavia_TF064_diff_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF064_diff_warp.wav" controls preload></audio> |
+| <audio src="audios1/josh.wav" controls preload></audio> | <audio src="audios1/veda.wav" controls preload></audio> | <audio src="audios1/josh_veda.wav" controls preload></audio> |
+
+
+| Josh | Millie | Josh_to_millie |
+
+| <audio src="audios1/josh.wav" controls preload></audio> | <audio src="audios1/millie.wav" controls preload></audio> | <audio src="audios1/josh_millie.wav" controls preload></audio> |
+
+| Josh | noa | Josh_to_noa |
+
+| <audio src="audios1/josh.wav" controls preload></audio> | <audio src="audios1/noa.wav" controls preload></audio> | <audio src="audios1/josh_noa.wav" controls preload></audio> |
+
+
 
 
